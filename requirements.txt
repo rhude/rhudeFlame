@@ -1,0 +1,10 @@
+#Common Packages
+google-cloud-pubsub==0.38.0
+pyjwt
+paho-mqtt
+cryptography
+
+
+# colormap
+# easydev
+# adafruit-circuitpython-neopixel
